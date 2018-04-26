@@ -1,0 +1,208 @@
+:*C:\alpha:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad4}{Alt Up} 
+return 
+
+:*C:\Alpha:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad3}{Alt Up} 
+return 
+
+:*C:\beta:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad5}{Alt Up} 
+return 
+
+:*C:\Beta:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad4}{Alt Up} 
+return 
+
+:*C:\gamma:: 
+SendInput {Alt Down}{Numpad9}{Numpad4}{Numpad7}{Alt Up} 
+return 
+
+:*C:\Gamma:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad6}{Alt Up} 
+return 
+
+:*C:\delta:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad5}{Alt Up} 
+return 
+
+:*C:\Delta:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad6}{Alt Up} 
+return 
+
+:*C:\epsilon:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad8}{Alt Up} 
+return 
+
+:*C:\Epsilon:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad7}{Alt Up} 
+return 
+
+:*C:\zeta:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad0}{Alt Up} 
+return 
+
+:*C:\Zeta:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad8}{Alt Up} 
+return 
+
+:*C:\eta:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad1}{Alt Up} 
+return 
+
+:*C:\Eta:: 
+SendInput {Alt Down}{Numpad9}{Numpad1}{Numpad9}{Alt Up} 
+return 
+
+:*C:\theta:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad2}{Alt Up} 
+return 
+
+:*C:\thetasym:: 
+SendInput {Alt Down}{Numpad9}{Numpad7}{Numpad7}{Alt Up} 
+return 
+
+:*C:\Theta:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad3}{Alt Up} 
+return 
+
+:*C:\iota:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad3}{Alt Up} 
+return 
+
+:*C:\Iota:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad1}{Alt Up} 
+return 
+
+:*C:\kappa:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad4}{Alt Up} 
+return 
+
+:*C:\Kappa:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad2}{Alt Up} 
+return 
+
+:*C:\lambda:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad5}{Alt Up} 
+return 
+
+:*C:\Lambda:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad3}{Alt Up} 
+return 
+
+:*C:\mu:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad0}{Alt Up} 
+return 
+
+:*C:\Mu:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad4}{Alt Up} 
+return 
+
+:*C:\nu:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad7}{Alt Up} 
+return 
+
+:*C:\Nu:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad5}{Alt Up} 
+return 
+
+:*C:\xi:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad8}{Alt Up} 
+return 
+
+:*C:\Xi:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad6}{Alt Up} 
+return 
+
+:*C:\omicron:: 
+SendInput {Alt Down}{Numpad9}{Numpad5}{Numpad9}{Alt Up} 
+return 
+
+:*C:\Omicron:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad7}{Alt Up} 
+return 
+
+:*C:\pi:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad7}{Alt Up} 
+return 
+
+:*C:\piv:: 
+SendInput {Alt Down}{Numpad9}{Numpad8}{Numpad2}{Alt Up} 
+return 
+
+:*C:\Pi:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad8}{Alt Up} 
+return 
+
+:*C:\rho:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad1}{Alt Up} 
+return 
+
+:*C:\Rho:: 
+SendInput {Alt Down}{Numpad9}{Numpad2}{Numpad9}{Alt Up} 
+return 
+
+:*C:\sigma:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad9}{Alt Up} 
+return 
+
+:*C:\sigmaf:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad2}{Alt Up} 
+return 
+
+:*C:\Sigma:: 
+SendInput {Alt Down}{Numpad2}{Numpad2}{Numpad8}{Alt Up} 
+return 
+
+:*C:\tau:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad1}{Alt Up} 
+return 
+
+:*C:\Tau:: 
+SendInput {Alt Down}{Numpad9}{Numpad3}{Numpad2}{Alt Up} 
+return 
+
+:*C:\upsilon:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad5}{Alt Up} 
+return 
+
+:*C:\upsih:: 
+SendInput {Alt Down}{Numpad9}{Numpad7}{Numpad8}{Alt Up} 
+return 
+
+:*C:\Upsilon:: 
+SendInput {Alt Down}{Numpad9}{Numpad3}{Numpad3}{Alt Up} 
+return 
+
+:*C:\phi:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad7}{Alt Up} 
+return 
+
+:*C:\Phi:: 
+SendInput {Alt Down}{Numpad9}{Numpad3}{Numpad4}{Alt Up} 
+return 
+
+:*C:\chi:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad7}{Alt Up} 
+return 
+
+:*C:\Chi:: 
+SendInput {Alt Down}{Numpad9}{Numpad3}{Numpad5}{Alt Up} 
+return 
+
+:*C:\psi:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad8}{Alt Up} 
+return 
+
+:*C:\Psi:: 
+SendInput {Alt Down}{Numpad9}{Numpad3}{Numpad6}{Alt Up} 
+return 
+
+:*C:\omega:: 
+SendInput {Alt Down}{Numpad9}{Numpad6}{Numpad9}{Alt Up} 
+return 
+
+:*C:\Omega:: 
+SendInput {Alt Down}{Numpad2}{Numpad3}{Numpad4}{Alt Up} 
+return 
+
