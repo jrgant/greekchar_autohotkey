@@ -7,4 +7,4 @@ The R code scrapes a table from [keynotesupport.com](http://keynotesupport.com) 
 
 ## .TXT File
 
-The .txt file contains all of the hotstrings for Greek characters. A couple of strings ```\sigmaf``` need to be changed, as ```\sigma``` will trigger a substitution. Change as needed upon pasting these into an AutoHotkey file.
+The .txt file contains all of the hotstrings for Greek characters. A couple of strings like ```\sigmaf``` need to be changed, as ```\sigma``` will trigger a substitution. Change as needed upon pasting these into an AutoHotkey file.
